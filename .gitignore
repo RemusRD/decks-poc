@@ -1,0 +1,7 @@
+.idea
+out/
+.idea_modules/
+atlassian-ide-plugin.xml
+.gradle
+/build/
+!gradle-wrapper.jar
